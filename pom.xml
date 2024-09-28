@@ -53,5 +53,23 @@
                 <artifactId>maven-compiler-plugin</artifactId>
                 <version>3.8.1</version> <!-- Update to a more recent version -->
                 <configuration>
+                    <source>17</source> <!-- Use Java 17 -->
+                    <target>17</target> <!-- Use Java 17 -->
+                </configuration>
+            </plugin>
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-surefire-plugin</artifactId>
+                <version>2.22.2</version> <!-- Update to a more recent version -->
+            </plugin>
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-war-plugin</artifactId>
+                <version>3.3.1</version> <!-- Updated WAR plugin version -->
+            </plugin>
+        </plugins>
+    </build>
+</project>
+
       
 
