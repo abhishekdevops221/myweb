@@ -62,6 +62,12 @@
                 <artifactId>maven-surefire-plugin</artifactId>
                 <version>2.22.2</version> <!-- Update to a more recent version -->
             </plugin>
-        </plugins>
+           </plugins>
+                 <groupId>org.apache.maven.plugins</groupId>
+            <artifactId>maven-war-plugin</artifactId>
+            <version>3.3.1</version> <!-- Updated WAR plugin version -->
+        </plugin>
+    </plugins>
+</build>
     </build>
 </project>
