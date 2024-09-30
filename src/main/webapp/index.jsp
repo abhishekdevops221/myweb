@@ -24,7 +24,9 @@
     <h1 style="color: green; font-size: 40px;" align="center">Abhishek Tech World</h1>
     
     <div class="content">
-        <img class="profile-image" src="your-photo-url.jpg" alt="Abhishek's Photo">
+        <img class="profile-image" src="https://imgur.com/J35ybS2
+
+" alt="Abhishek's Photo">
         <h2>About Me</h2>
         <p>Hello, I am Abhishek, a DevOps enthusiast striving to reach the level of a 5-year experienced DevOps engineer. I am skilled in using tools such as Git, Jenkins, Docker, Kubernetes, AWS, Ansible, Terraform, Prometheus, Grafana, and more.</p>
 
